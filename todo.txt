@@ -1,0 +1,22 @@
+
+
+
+
+	TO DO LIST:
+		- sprawdzenie pierwszej deklaracji z datą podpisania umowy/ kalendarz do wybrania dokładnej daty deklaracji
+		- wielomateriały i leki dla wybranych użytkowników i w pełnej liście
+		- wersje da kategorii
+		- pozycje spoza umowy oznaczone na pełnej liśie ?kolor czerwony ?dymek
+		- kampanie EDU
+		- PDF !!!
+		- sprawdzanie do formularza odpadów:
+			* 2 miejsca przecinku dla masy oprócz opakowań
+			* wymagane co najmniej jedno pole
+			* przy podwójnych wartościach, jeśli jedna jest wypełniona, druga jest wymagana
+		- ładniejsze okienka potwierdzenia
+		- na liście deklaracji pokazać okres w postaci monthString oraz rodzaj
+		- ostrzeżenie przy składaniu w sposób nieciągły
+		- mail do handlowca przy produktach spoza umowy
+		- blokada składania deklaracji za okres po końcu umowy
+		- kopia robocza deklaracji
+		
